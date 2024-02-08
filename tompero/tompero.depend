@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1707407397 source:c:\users\cicer\onedrive\Área de trabalho\prova laboratório aed\tompero\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaDinamica.h"
+	"pilhaEstatica.h"
+
+1707407745 c:\users\cicer\onedrive\Área de trabalho\prova laboratório aed\tompero\filadinamica.h
+
+1707407729 source:c:\users\cicer\onedrive\Área de trabalho\prova laboratório aed\tompero\filadinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"filaDinamica.h"
+
+1707407349 source:c:\users\cicer\onedrive\Área de trabalho\prova laboratório aed\tompero\pilhaestatica.c
+	<stdlib.h>
+	<stdio.h>
+	"filaDinamica.h"
+	"pilhaEstatica.h"
+
+1707407382 c:\users\cicer\onedrive\Área de trabalho\prova laboratório aed\tompero\pilhaestatica.h
+	"filaDinamica.h"
+
